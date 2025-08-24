@@ -52,6 +52,11 @@ Alternative tool for Docker is Podman. But Docker is most of the organisation us
   Now we are shipping everything with your dependencies, libraries, application code and everything that a build required to execute including the operating system image and then it works in your prod environment.
 
 
+## That's how docker was born(Just kidding!)
+
+![image](https://github.com/piyushsachdeva/CKA-2024/assets/40286378/c781a038-3420-4980-a3d8-ab123fc33d95)
+
+
 ## Understanding Containers V/S Virtual Machines
 
 ![image](https://github.com/piyushsachdeva/CKA-2024/assets/40286378/b1bfe6ae-a1e6-4b04-8486-272d3ed380bc)
@@ -60,6 +65,7 @@ Alternative tool for Docker is Podman. But Docker is most of the organisation us
 <img width="878" height="73" alt="image" src="https://github.com/user-attachments/assets/222fb343-1b5f-48da-8b6e-63e204dbf139" />
 
 
+<img width="1823" height="49" alt="image" src="https://github.com/user-attachments/assets/27cbd401-6853-4532-b3aa-127112946065" />
 
 
 ## Containers V/S Virtual machines with the help of a Building and House analogy
@@ -72,18 +78,20 @@ Alternative tool for Docker is Podman. But Docker is most of the organisation us
 
 
 
-## That's how docker was born(Just kidding!)
-
-![image](https://github.com/piyushsachdeva/CKA-2024/assets/40286378/c781a038-3420-4980-a3d8-ab123fc33d95)
-
-
-
 ## A Simple Docker WorkFlow
 
 ![image](https://github.com/piyushsachdeva/CKA-2024/assets/40286378/444db8f4-1cbb-47b0-986f-489292f05b7c)
 
+## What is Docker Image? 
+Dependency . libraries, Application code, Operating System everyting will be packaged in a image. it will be shipable image, can ship from one environment to another enviornment.
+
+**You can't ship containers directly from one environment to another environment. The way you ship it with help of an image.**
+
+_Usually you should have one docker file per application._
 
 
 ## Docker Architecture
 
 ![image](https://github.com/piyushsachdeva/CKA-2024/assets/40286378/79099c53-7f63-4bb6-885c-28cdd0850d93)
+
+
