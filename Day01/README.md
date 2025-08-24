@@ -65,7 +65,8 @@ Alternative tool for Docker is Podman. But Docker is most of the organisation us
 <img width="878" height="73" alt="image" src="https://github.com/user-attachments/assets/222fb343-1b5f-48da-8b6e-63e204dbf139" />
 
 
-<img width="1823" height="49" alt="image" src="https://github.com/user-attachments/assets/27cbd401-6853-4532-b3aa-127112946065" />
+<img width="1823" height="49" alt="image" src="https://github.com/user-attachments/assets/67c6eef9-aa81-411c-bd77-3dda939e19f8" />
+
 
 
 ## Containers V/S Virtual machines with the help of a Building and House analogy
