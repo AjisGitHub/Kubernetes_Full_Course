@@ -56,10 +56,9 @@ Alternative tool for Docker is Podman. But Docker is most of the organisation us
 
 ![image](https://github.com/piyushsachdeva/CKA-2024/assets/40286378/b1bfe6ae-a1e6-4b04-8486-272d3ed380bc)
 
-Container 	Virtual Machine
-	It is nothing but virtual computer which has computing power, storage, Networking OS installed everything that needs.
-	This VM is generally runs for one application.
-<img width="206" height="73" alt="image" src="https://github.com/user-attachments/assets/238cb05f-5411-448c-b267-1dc486efeabb" />
+
+<img width="878" height="73" alt="image" src="https://github.com/user-attachments/assets/222fb343-1b5f-48da-8b6e-63e204dbf139" />
+
 
 
 
