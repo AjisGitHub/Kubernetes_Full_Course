@@ -1,9 +1,5 @@
 # Day 1 - Docker Fundamentals
 
-# Why Docker Need?
-<img width="1284" height="613" alt="image" src="https://github.com/user-attachments/assets/db476500-ac1c-47bc-a9bb-41edd23d2c0f" />
-
-
 ## Challenges with the non-containerized applications
 
 ![image](https://github.com/piyushsachdeva/CKA-2024/assets/40286378/58b4c2dd-6abe-4acd-9318-c718e4133a91)
@@ -29,7 +25,7 @@ There was no easy way to package all the dependancy , libraries, Configuration a
 That's Why **Docker** came into the picture.
 
 
-## What is Docker
+## What is Docker?
 
 ![image](https://github.com/piyushsachdeva/CKA-2024/assets/40286378/2f8eb0eb-8c2d-4460-8dbc-c43e1f3fce3e)
 
@@ -49,6 +45,12 @@ Docker is nothing but platform that helps you execute these tasks. It provides a
 
 Alternative tool for Docker is Podman. But Docker is most of the organisation using.
 
+## How Docker solves the challenges
+
+![image](https://github.com/piyushsachdeva/CKA-2024/assets/40286378/a8f134d8-b70e-4c99-857e-5da26e68674b)
+
+  Now we are shipping every
+
 
 ## Understanding Containers V/S Virtual Machines
 
@@ -63,9 +65,6 @@ Alternative tool for Docker is Podman. But Docker is most of the organisation us
 
 
 
-## How Docker solves the challenges
-
-![image](https://github.com/piyushsachdeva/CKA-2024/assets/40286378/a8f134d8-b70e-4c99-857e-5da26e68674b)
 
 
 ## That's how docker was born(Just kidding!)
