@@ -49,12 +49,18 @@ Alternative tool for Docker is Podman. But Docker is most of the organisation us
 
 ![image](https://github.com/piyushsachdeva/CKA-2024/assets/40286378/a8f134d8-b70e-4c99-857e-5da26e68674b)
 
-  Now we are shipping every
+  Now we are shipping everything with your dependencies, libraries, application code and everything that a build required to execute including the operating system image and then it works in your prod environment.
 
 
 ## Understanding Containers V/S Virtual Machines
 
 ![image](https://github.com/piyushsachdeva/CKA-2024/assets/40286378/b1bfe6ae-a1e6-4b04-8486-272d3ed380bc)
+
+Container 	Virtual Machine
+	It is nothing but virtual computer which has computing power, storage, Networking OS installed everything that needs.
+	This VM is generally runs for one application.
+<img width="206" height="73" alt="image" src="https://github.com/user-attachments/assets/238cb05f-5411-448c-b267-1dc486efeabb" />
+
 
 
 ## Containers V/S Virtual machines with the help of a Building and House analogy
