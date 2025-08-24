@@ -4,6 +4,30 @@
 <img width="1284" height="613" alt="image" src="https://github.com/user-attachments/assets/db476500-ac1c-47bc-a9bb-41edd23d2c0f" />
 
 
+## Challenges with the non-containerized applications
+
+![image](https://github.com/piyushsachdeva/CKA-2024/assets/40286378/58b4c2dd-6abe-4acd-9318-c718e4133a91)
+
+The Code is works in Dev Environment, Test Environment. But it is not works on prod environment. 
+
+There Could be multiple reason for failed the Build Promotion. 
+
+Such as, 
+
+  1.**Environment misconfig**
+  
+  2.**Missing dependancy**
+  
+  3.**Missing libraries in the prod environment**
+  
+  4.**Issue with environment**
+  
+  5.**Issue with Infrastructure**
+  
+There was no easy way to package all the dependancy , libraries, Configuration along with application inside the build and ship it to all the environment including Prod Environment.
+
+That's Why **Docker** came into the picture.
+
 
 ## What is Docker
 
@@ -38,29 +62,6 @@ Alternative tool for Docker is Podman. But Docker is most of the organisation us
 
 
 
-## Challenges with the non-containerized applications
-
-![image](https://github.com/piyushsachdeva/CKA-2024/assets/40286378/58b4c2dd-6abe-4acd-9318-c718e4133a91)
-
-The Code is works in Dev Environment, Test Environment. But it is not works on prod environment. 
-
-There Could be multiple reason for failed the Build Promotion. 
-
-Such as, 
-
-  1.**Environment misconfig**
-  
-  2.**Missing dependancy**
-  
-  3.**Missing libraries in the prod environment**
-  
-  4.**Issue with environment**
-  
-  5.**Issue with Infrastructure**
-  
-There was no easy way to package all the dependancy , libraries, Configuration along with application inside the build and ship it to all the environment including Prod Environment.
-
-That's Why **Docker** came into the picture.
 
 ## How Docker solves the challenges
 
