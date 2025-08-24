@@ -62,10 +62,8 @@ Alternative tool for Docker is Podman. But Docker is most of the organisation us
 ![image](https://github.com/piyushsachdeva/CKA-2024/assets/40286378/b1bfe6ae-a1e6-4b04-8486-272d3ed380bc)
 
 
-<img width="878" height="73" alt="image" src="https://github.com/user-attachments/assets/222fb343-1b5f-48da-8b6e-63e204dbf139" />
+<img width="879" height="193" alt="image" src="https://github.com/user-attachments/assets/0902c503-b8f8-456f-8867-94a63b7f7c4e" />
 
-
-<img width="1823" height="49" alt="image" src="https://github.com/user-attachments/assets/67c6eef9-aa81-411c-bd77-3dda939e19f8" />
 
 
 
